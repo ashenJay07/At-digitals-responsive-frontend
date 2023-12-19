@@ -1,0 +1,16 @@
+a {
+  text-decoration: none !important;
+  color: white !important;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.bg-pink {
+  background-color: pink;
+}
